@@ -3,7 +3,8 @@
     --frente-cartão:#E6E6FA;
     --verso-cartão:#babadf;
     --destaque:#9370DB;
-    --preto:#b154e0;
+    --roxo:#b154e0;
+    --preto: #000000;
     --branco:#FFFFFF;
 }
 
@@ -12,7 +13,10 @@ body{
 }
 
 footer{
-    background-color: var(--preto);
+    background-color: var(--roxo);
     position: fixed;
     bottom: 0;
+    color: var(--preto);
+    width: 100%;
+    text-align: center;
 }
