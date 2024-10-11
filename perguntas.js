@@ -1,103 +1,103 @@
 criaCartão(
     'Química',
-    'pegunta',
-    'resposta'
+    'O que é um hidrocarboneto?',
+    'Uma substância com apenas Hidrogênios e carbonos em sua compoição'
 
 )
 criaCartão(
     'Química',
-    'pegunta',
-    'resposta'
+    'O que é um metil?',
+    'É uma ramificação com apenas um carbono'
 
 )
 criaCartão(
     'Química',
-    'pegunta',
-    'resposta'
+    'O que é um etil?',
+    'É uma ramificação com dois carbonos'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Biologia',
+    'Como é conhecida a Primeira Lei de Mendel?',
+    'Lei da Segregação dos Fatores'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Biologia',
+    'Como se relaciona a doação do sistema ABO ?',
+    'A doa para A e AB, B oa para B e AB, AB doa para AB e O oa para todos'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Biologia',
+    'Como se relaciona a recepção de sangue do sistema ABO?',
+    'A recebe do A e O, B recebe de B e O, AB recebe de A, B, O e AB(receptor universal, O recebe de O'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'História',
+    'O que foi a Ditadura Militar Brasileira?',
+    'Período da hitória do Brasil que vai de 1964 a 1985, em que os militares estavam no poder e não houve democracia'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'História',
+    'O que foi a marcha da família?',
+    'Marcha realizada nas ruas de São Paulo em 1964, contra as reforma de João Goulart.'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Hitória',
+    'O que foram os Atos Institucionais',
+    'Foram decretos valiaes pelo preidente em que, para iso, houvesse a aprovação do poder legislativo '
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Matemática',
+    'Quais são as principais funções trigonométricas?',
+    'Função Seno, Função Cosseno e Função Tangente'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Matemática',
+    'Qual é a fórmula do Seno?',
+    'Sen= CO/Hip'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Matemática',
+    'Qual é a fórmula do Cosseno?',
+    'Cos=CA/Hip'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Matemática',
+    'Qual é a fórmula da Tangente?',
+    'Tg= CO/CA ou Tg= Sen/Cos'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Geografia',
+    'Quais as principais fases do capitalismo?',
+    'Comercial,industrial,financeiro, Tecnico-Cientifico-informacional'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Geografia',
+    'Durante que seculos vigorou o capitalismo comercial?',
+    'Seculos 15 a 18.'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Geografia',
+    'Que aspecto marcou o periodo do capitalismo comercial?',
+    'A expansao maritima'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Geografia',
+    'Quais eram as potencias durante o capitalismo comercial?',
+    'Grã Bretanha, Espanha, Portugal, Holanda'
 
 )
 criaCartão(
