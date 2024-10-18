@@ -101,20 +101,20 @@ criaCartão(
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Portugês',
+    'pronomes pessoais retos',
+    'eu, nós, tu, vós, ele(s), ela(s)'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Português',
+    'peguntpronomes oblíquos átonos',
+    'me, nos, te, vos, se, lhe(s), o(s), a(s)'
 
 )
 criaCartão(
-    'Química',
-    'pegunta',
-    'resposta'
+    'Portugês',
+    'Que função os pronomes do caso obliquo exercem na oração?',
+    'Função de Objeto'
 
 )
