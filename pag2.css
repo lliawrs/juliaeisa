@@ -38,3 +38,10 @@ footer{
     gap: 3rem;
     padding: 20px;
 }
+
+.cartao{
+    background-color: var(--frente-cartão);
+    border: 1px solid var(--branco);
+    padding: 40px;
+    box-shadow: 2px 2px 2px;
+}
