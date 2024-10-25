@@ -72,5 +72,5 @@ footer{
     transform: rotateY(180deg);
 background-color: var(--verso-cartão);
 color: var(--destaque)
-border: 2px solid var(var(var(--roxo)))
+border: 2px solid var(--roxo)
 }
