@@ -37,7 +37,7 @@ criaCartão(
 criaCartão(
     'História',
     'O que foi a Ditadura Militar Brasileira?',
-    'Período da hitória do Brasil que vai de 1964 a 1985, em que os militares estavam no poder e não houve democracia'
+    'Período da história do Brasil que vai de 1964 a 1985, em que os militares estavam no poder e não houve democracia'
 
 )
 criaCartão(
