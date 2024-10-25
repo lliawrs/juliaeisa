@@ -12,6 +12,13 @@ body{
     background-color: var(--fundo);
 }
 
+header{
+    background-color: var(--roxo);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
 footer{
     background-color: var(--roxo);
     position: fixed;
