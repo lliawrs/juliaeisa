@@ -3,6 +3,7 @@
     --frente-cartão:#E6E6FA;
     --verso-cartão:#babadf;
     --destaque:#9370DB;
+    --destaqued:#7946df;
     --roxo:#be79e1;
     --preto: #000000;
     --branco:#FFFFFF;
@@ -72,5 +73,5 @@ footer{
     transform: rotateY(180deg);
 background-color: var(--verso-cartão);
 color: var(--destaque)
-border: 2px solid var(--roxo)
+border: 2px solid var(--destaqued)
 }
